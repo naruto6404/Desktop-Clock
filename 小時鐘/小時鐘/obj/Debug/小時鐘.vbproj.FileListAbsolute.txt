@@ -1,0 +1,21 @@
+E:\project\小時鐘\小時鐘\bin\Debug\小時鐘.exe.config
+E:\project\小時鐘\小時鐘\obj\Debug\小時鐘.Form1.resources
+E:\project\小時鐘\小時鐘\obj\Debug\小時鐘.Resources.resources
+E:\project\小時鐘\小時鐘\obj\Debug\小時鐘.vbproj.GenerateResource.Cache
+E:\project\小時鐘\小時鐘\bin\Debug\小時鐘.exe
+E:\project\小時鐘\小時鐘\bin\Debug\小時鐘.pdb
+E:\project\小時鐘\小時鐘\bin\Debug\小時鐘.xml
+E:\project\小時鐘\小時鐘\obj\Debug\小時鐘.exe
+E:\project\小時鐘\小時鐘\obj\Debug\小時鐘.xml
+E:\project\小時鐘\小時鐘\obj\Debug\小時鐘.pdb
+C:\Users\ZCC\Google 雲端硬碟\project\小時鐘\小時鐘\bin\Debug\小時鐘.exe.config
+C:\Users\ZCC\Google 雲端硬碟\project\小時鐘\小時鐘\obj\Debug\小時鐘.exe
+C:\Users\ZCC\Google 雲端硬碟\project\小時鐘\小時鐘\obj\Debug\小時鐘.xml
+C:\Users\ZCC\Google 雲端硬碟\project\小時鐘\小時鐘\obj\Debug\小時鐘.pdb
+C:\Users\ZCC\Google 雲端硬碟\project\小時鐘\小時鐘\obj\Debug\小時鐘.vbprojResolveAssemblyReference.cache
+C:\Users\ZCC\Google 雲端硬碟\project\小時鐘\小時鐘\obj\Debug\小時鐘.Form1.resources
+C:\Users\ZCC\Google 雲端硬碟\project\小時鐘\小時鐘\obj\Debug\小時鐘.vbproj.GenerateResource.Cache
+C:\Users\ZCC\Google 雲端硬碟\project\小時鐘\小時鐘\bin\Debug\小時鐘.exe
+C:\Users\ZCC\Google 雲端硬碟\project\小時鐘\小時鐘\bin\Debug\小時鐘.pdb
+C:\Users\ZCC\Google 雲端硬碟\project\小時鐘\小時鐘\bin\Debug\小時鐘.xml
+C:\Users\ZCC\Google 雲端硬碟\project\小時鐘\小時鐘\obj\Debug\小時鐘.Resources.resources
